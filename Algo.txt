@@ -1,3 +1,6 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
 3. Decide if I need to add a new pizza order or not
+4. Double check order if the order is correct with the right request
+5. Make sure to give the pizza order the right address
+6. Make sure to pay the pizza delivery man when he arrived to pay the pizza
